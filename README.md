@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Ali
+- 👋 Hi, I’m web developer
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
